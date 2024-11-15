@@ -1,0 +1,8 @@
+
+This project focuses on predicting bank loan payment status using the FPG_Vertical algorithm, with a comparative analysis against the Random Forest model. The goal was to develop a highly accurate model to support banks in assessing loan repayment risks, with a particular emphasis on enhancing prediction precision through advanced algorithmic approaches.
+
+Using the FPG_Vertical algorithm, which combines FP-Growth with a vertical data structure, I identified intricate patterns within customer data, leading to an impressive 93% prediction accuracy—significantly higher than the 80% accuracy achieved by the Random Forest model. The FPG_Vertical algorithm’s ability to uncover associations and frequent patterns within data provided deeper insights into customer repayment behavior, particularly useful in scenarios with complex data interactions.
+
+Each step of the project was meticulously executed, from data preprocessing and feature engineering to model evaluation. I cleaned, transformed, and analyzed the dataset to create structured input for both algorithms. The Random Forest model, though widely used for classification tasks, had limitations in handling the specific data structure, whereas FPG_Vertical excelled due to its unique handling of associations within the dataset.
+
+The results highlight the potential of FPG_Vertical in applications requiring high accuracy and complex pattern recognition, making it highly valuable in financial risk assessment. This project ultimately demonstrates the benefits of using tailored algorithmic approaches in predictive modeling to produce reliable insights and support strategic decision-making in banking.
